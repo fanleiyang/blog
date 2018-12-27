@@ -1,4 +1,4 @@
-@charset "gb2312";
+@charset "utf-8";
 .container {background: rgb(229, 229, 229,0.6);overflow: hidden; width: 1000px; margin: auto; border-left: #d2d2d2 1px solid; border-right: #d2d2d2 1px solid; }
 .blank20 { height: 20px; width: 100%; overflow: hidden; }
 /*æÌ÷·*/

@@ -1,4 +1,4 @@
-@charset "gb2312";
+@charset "utf-8";
 .con_content { overflow: hidden; width: 958px; margin: auto; border: #CCC 1px solid; background: rgba(255,255,255,0.3); }
 .about_box { padding: 20px; overflow: hidden; }
 .about_content { line-height: 24px; font-size: 14px; padding: 20px }
